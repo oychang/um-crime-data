@@ -1,0 +1,4 @@
+TODO.md
+*.swp
+*.pyc
+__pycache__/
