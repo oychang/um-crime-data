@@ -3,3 +3,4 @@ TODO.md
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+data/MiamiCrimeDataFull.csv
